@@ -1,0 +1,12 @@
+# streamlit
+ numpy
+ scikit-learn
+
+### local packages
+#-e . 
+
+streamlit
+requests
+python-dotenv
+pandas
+pickle
